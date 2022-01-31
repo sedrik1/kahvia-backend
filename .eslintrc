@@ -1,0 +1,18 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "no-console": 1,
+    "no-unused-vars": "warn",
+    "no-nested-ternary": 1,
+    "no-var": "error",
+    "eqeqeq": "warn",
+    "no-useless-return": "warn"
+  }
+}
