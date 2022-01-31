@@ -10,6 +10,6 @@ Valmis sqlite-tiedosto taululla ja sarakkeilla on alustettu hakemistoon. Mitää
 Suorita komento `npm install` pakettien npm-pakettien asentamiseksi.
 Asentamisen jälkeen suorita `npm start`. Tämä käynnistää back-endin osoitteeseen [http://localhost:3002](http://localhost:3002).
 
-Front-end-puoli
+## Front-end-puoli
 
 Front-end ja sen ohjeet osoitteessa https://github.com/sedrik1/kahvia-frontend
